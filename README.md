@@ -1,3 +1,4 @@
 #Fork Tips#
 
-A Recipie site that doesn't suck!
+A recipe site that doesn't suck!
+
