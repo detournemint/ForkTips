@@ -13,10 +13,11 @@ First version goals:
 5. Ingredients in steps can be faded/unfaded by clicking on them. This is to help cooks keep track of additions
 6. The selected step will have "focus" and the others will be slightly faded
 
-Sort-term goals
+Short-term goals
 1. Make a home page for browsing and sorting recipes
 2. Include related recipes for each recipe
-3. Add ratings for recipes
+3. Add user accounts
+4. Add ratings for recipes
  
 Long-term goals:
 1. Recipes can be forked by authors to create variations.
