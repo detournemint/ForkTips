@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Forktips::Application.config.secret_key_base = 'f149332b513471d94a63e00c5d94f21049e1170e5daaeaa10384c38bbdf9349b07520f1e7a93c4cc921244aaacae18f94d46b4ab714d10f54e52f48cd902bec7'
+Forktips::Application.config.secret_key_base = '2d270de814c524d5c596eaee93167b7971525e0ad50a72fe8d104db8d188f04c4bf58e9a87fdb000d096312bd64d02cdf9c1f842afe811f38b80491fe895b38a'
