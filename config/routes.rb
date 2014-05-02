@@ -1,6 +1,6 @@
 Forktips::Application.routes.draw do
   root to: 'static#home'
 
-  match '/about' to: 'static#about'
-  match '/contact' to 'static#contact'
+  get '/about', to: 'static#about'
+  get '/contact', to: 'static#contact'
 end
